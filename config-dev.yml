@@ -1,5 +1,5 @@
 config:
-  info: "version=2.01"
+  info: "version=3.01"
 server:
   port: 8003
 spring:
